@@ -1,0 +1,22 @@
+{
+  "name": "snowpack_cache_bug",
+  "version": "1.0.0",
+  "description": "Reproducing an error I get using Snowpack in Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jwashton/snowpack_cache_bug.git"
+  },
+  "author": "William Ashton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jwashton/snowpack_cache_bug/issues"
+  },
+  "homepage": "https://github.com/Jwashton/snowpack_cache_bug#readme",
+  "devDependencies": {
+    "snowpack": "^3.0.13"
+  }
+}

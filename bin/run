@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+set -o errexit
+set -o pipefail
+set -o nounset
+
+docker run -it --rm -p=8080:8080 -v "${PWD}":/app:Z -w="/app" node:15 "$@"

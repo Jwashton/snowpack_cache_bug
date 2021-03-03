@@ -22,7 +22,7 @@ For more detailed instructions:
 ## 1. Clone this repo
 
 ```
-git clone git@github.com:Jwashton/turbo-octo-robot.git
+git clone git@github.com:Jwashton/snowpack_cache_bug.git
 ```
 
 ## 2. Install Snowpack
